@@ -3,10 +3,7 @@
     <h1>
       Adopt a new best friend
     </h1>
-    <p>
-      {{ animalsCount }}
-      {{ getByBreed('dogs', 'golden retriever') }}
-    </p>
+    <p>{{ animalsCount }} furry friends are waiting for you!</p>
     <button class="btn btn-primary" @click="togglePetForm">
       Add New Pet
     </button>
