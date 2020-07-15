@@ -1,4 +1,4 @@
-#Adopt a Pet!
+# Adopt a Pet!
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
